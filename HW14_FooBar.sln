@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW14_FooBar", "HW14_FooBar\HW14_FooBar.csproj", "{0C5A0121-8FE1-4689-B6EB-B14A12F6DDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBarTests", "FooBarTests\FooBarTests.csproj", "{D1E69F9B-101A-4155-9A50-48788A4DC600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5A0121-8FE1-4689-B6EB-B14A12F6DDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5A0121-8FE1-4689-B6EB-B14A12F6DDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5A0121-8FE1-4689-B6EB-B14A12F6DDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5A0121-8FE1-4689-B6EB-B14A12F6DDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E69F9B-101A-4155-9A50-48788A4DC600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E69F9B-101A-4155-9A50-48788A4DC600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E69F9B-101A-4155-9A50-48788A4DC600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E69F9B-101A-4155-9A50-48788A4DC600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F840363D-5656-489D-87E1-A4629BF21738}
+	EndGlobalSection
+EndGlobal
